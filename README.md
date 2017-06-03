@@ -1,6 +1,6 @@
 # minicricket
 Popular doodle cricket source code
-[Demo](https://biswatma.herokuapp.com/)
+[Web](https://biswatma.herokuapp.com/) . 
 [Playstore](https://play.google.com/store/apps/details?id=com.mini.cricket)
 
 
